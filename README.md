@@ -66,18 +66,12 @@ The project is divided into different phases, such as data cleaning, visualizati
    ```bash
    cd olympic-eda-project
    ```
-
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch the Jupyter Notebook:
+3. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook olympic_eda_analysis.ipynb
    ```
 
-5. Run the cells in the notebook sequentially to execute the analysis.
+4. Run the cells in the notebook sequentially to execute the analysis.
 
 ## 7. Results
 

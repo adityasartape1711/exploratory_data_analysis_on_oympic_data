@@ -38,9 +38,7 @@ The project is divided into different phases, such as data cleaning, visualizati
 .
 ├── olympic_eda_analysis.ipynb   # Jupyter Notebook containing the full analysis
 ├── athlete_events.csv           # Dataset containing Olympic athlete data
-├── README.md                    # Project description file
-└── requirements.csv             # File for Python dependencies (e.g., pandas, matplotlib)
-```
+├── README.md                    #
 
 ### Explanation:
 - **olympic_eda_analysis.ipynb**: This notebook contains the code and visualizations for the complete EDA.
@@ -53,7 +51,6 @@ The project is divided into different phases, such as data cleaning, visualizati
 
 - Python 3.x
 - Jupyter Notebook
-- Necessary libraries (listed in requirements.txt)
 
 ### Steps to Run:
 
